@@ -1,0 +1,8 @@
+# Ignorer le dossier de l'environnement virtuel
+/env/
+
+# Ignorer les notebooks spécifiques
+udemy.ipynb
+
+# Ignorer les checkpoints de Jupyter
+/.ipynb_checkpoints/
